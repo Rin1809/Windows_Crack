@@ -67,7 +67,6 @@ Không có quy trình cài đặt đặc biệt cho các script `.bat`. Bạn ch
 ## Cấu trúc thư mục
 ```
 Crack Win/
-├── .git/ (Không liệt kê)
 ├── Crack Microsoft Office 2021.bat
 ├── Crack Microsoft Office 365.bat
 ├── Crack windows (All).bat
@@ -147,7 +146,6 @@ To use these scripts, you need to:
 ## Folder Structure
 ```
 Crack Win/
-├── .git/ (Not listed)
 ├── Crack Microsoft Office 2021.bat
 ├── Crack Microsoft Office 365.bat
 ├── Crack windows (All).bat
@@ -233,7 +231,6 @@ Crack Winは、Microsoft WindowsおよびOffice製品をアクティベートす
 ## フォルダ構造
 ```
 Crack Win/
-├── .git/ (リストされていません)
 ├── Crack Microsoft Office 2021.bat
 ├── Crack Microsoft Office 365.bat
 ├── Crack windows (All).bat
