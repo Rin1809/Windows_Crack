@@ -19,8 +19,6 @@ Crack Win là một bộ sưu tập các script `.bat` (batch files) được th
 
 Bộ sưu tập script này bao gồm các file `.bat` riêng biệt, mỗi file được thiết kế để kích hoạt một phiên bản cụ thể của Windows hoặc Office:
 
-*   **Crack Microsoft Office 2021.bat:** Script này được thiết kế để kích hoạt Microsoft Office 2021 (tất cả các phiên bản), bao gồm Standard và Professional Plus. Script có vẻ như sử dụng phương pháp KMS (Key Management Service) để kích hoạt.
-*   **Crack Microsoft Office 365.bat:** Tương tự, script này dành cho việc kích hoạt Office 365 ProPlus, cũng như sử dụng phương pháp KMS.
 *   **Crack windows (All).bat:** Script này là một menu tương tác dòng lệnh, cho phép người dùng chọn phiên bản Windows của mình (từ Windows Vista đến Windows 11) và cố gắng kích hoạt nó. Script này cung cấp nhiều tùy chọn và khóa sản phẩm (product key) khác nhau cho từng phiên bản Windows.
 *   **Crack windows 10 .bat:** Script này tập trung vào việc kích hoạt Windows 10 (tất cả các phiên bản Home, Professional, Enterprise, Education). Nó thử nghiệm với nhiều product key và KMS server khác nhau để kích hoạt.
 *   **Crack windows 11.bat:** Script này được thiết kế riêng cho việc kích hoạt Windows 11 (Home, Professional, Education, Enterprise), tương tự như script cho Windows 10, sử dụng nhiều product key và KMS server.
@@ -67,8 +65,6 @@ Không có quy trình cài đặt đặc biệt cho các script `.bat`. Bạn ch
 ## Cấu trúc thư mục
 ```
 Crack Win/
-├── Crack Microsoft Office 2021.bat
-├── Crack Microsoft Office 365.bat
 ├── Crack windows (All).bat
 ├── Crack windows 10 .bat
 ├── Crack windows 11.bat
@@ -98,8 +94,6 @@ Crack Win is a collection of `.bat` (batch files) scripts designed to activate M
 
 This script collection includes separate `.bat` files, each designed to activate a specific version of Windows or Office:
 
-*   **Crack Microsoft Office 2021.bat:** This script is designed to activate Microsoft Office 2021 (all versions), including Standard and Professional Plus. The script appears to use the KMS (Key Management Service) method for activation.
-*   **Crack Microsoft Office 365.bat:** Similarly, this script is for activating Office 365 ProPlus, also to use the KMS method.
 *   **Crack windows (All).bat:** This script is an interactive command-line menu, allowing users to select their Windows version (from Windows Vista to Windows 11) and attempt to activate it. This script provides various options and product keys for each Windows version.
 *   **Crack windows 10 .bat:** This script focuses on activating Windows 10 (all editions: Home, Professional, Enterprise, Education). It experiments with various product keys and KMS servers for activation.
 *   **Crack windows 11.bat:** This script is specifically designed for activating Windows 11 (Home, Professional, Education, Enterprise), similar to the Windows 10 script, using multiple product keys and KMS servers.
@@ -146,8 +140,6 @@ To use these scripts, you need to:
 ## Folder Structure
 ```
 Crack Win/
-├── Crack Microsoft Office 2021.bat
-├── Crack Microsoft Office 365.bat
 ├── Crack windows (All).bat
 ├── Crack windows 10 .bat
 ├── Crack windows 11.bat
@@ -183,8 +175,6 @@ Crack Winは、Microsoft WindowsおよびOffice製品をアクティベートす
 
 このスクリプトコレクションには、個別の`.bat`ファイルが含まれており、それぞれが特定のバージョンのWindowsまたはOfficeをアクティベートするように設計されています。
 
-*   **Crack Microsoft Office 2021.bat:** このスクリプトは、Microsoft Office 2021（StandardおよびProfessional Plusを含むすべてのバージョン）をアクティベートするように設計されています。スクリプトは、KMS（キー管理サービス）メソッドをアクティベーションに使用しているようです。
-*   **Crack Microsoft Office 365.bat:** 同様に、このスクリプトはOffice 365 ProPlusをアクティベートするためのもので、KMSメソッドを使用しているです。
 *   **Crack windows (All).bat:** このスクリプトは、インタラクティブなコマンドラインメニューであり、ユーザーはWindowsのバージョン（Windows VistaからWindows 11まで）を選択してアクティベートを試みることができます。このスクリプトは、Windowsのバージョンごとにさまざまなオプションとプロダクトキーを提供します。
 *   **Crack windows 10 .bat:** このスクリプトは、Windows 10（Home、Professional、Enterprise、Educationのすべてのエディション）のアクティベートに焦点を当てています。アクティベーションのために、さまざまなプロダクトキーとKMSサーバーを試します。
 *   **Crack windows 11.bat:** このスクリプトは、Windows 11（Home、Professional、Education、Enterprise）をアクティベートするために特別に設計されており、Windows 10スクリプトと同様に、複数のプロダクトキーとKMSサーバーを使用しています。
@@ -231,8 +221,6 @@ Crack Winは、Microsoft WindowsおよびOffice製品をアクティベートす
 ## フォルダ構造
 ```
 Crack Win/
-├── Crack Microsoft Office 2021.bat
-├── Crack Microsoft Office 365.bat
 ├── Crack windows (All).bat
 ├── Crack windows 10 .bat
 ├── Crack windows 11.bat
