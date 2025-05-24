@@ -1,4 +1,4 @@
-# Crack Win - Bộ Sưu Tập Script Active Windows & Office - ᓚᘏᗢ
+# Script Active Windows & Office - ᓚᘏᗢ
 
 <!-- Vietnamese -->
 <details>
